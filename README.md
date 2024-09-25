@@ -1,3 +1,5 @@
+Aluno: Vinícius de Assis Silva
+
 # Exercicio Blog
 
 Este repositório contém um exercício de HTML e CSS para criar um modelo de blog.
